@@ -4,4 +4,4 @@ matplotlib
 numpy
 scikit_learn
 tensorflow
-
+gunicorn==19.7.1
